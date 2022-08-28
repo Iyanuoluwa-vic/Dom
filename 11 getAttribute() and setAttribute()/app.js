@@ -4,7 +4,7 @@ const classValue = first.getAttribute("class");
 console.log(classValue);
 console.log(classValue);
 
-// getAttributes  is ued to attribute of class and id
+//settAttributes  is ued to create attribute of class and id
 const link = document.querySelector("#link");
 const last = link.nextElementSibling;
 last.setAttribute("class", "third");
