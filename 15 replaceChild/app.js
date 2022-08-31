@@ -13,6 +13,6 @@ const smallText = document.createTextNode("this is heading 5");
 
 smallHeading.className = "h5";
 
-smallHeading.appendChild(smallText);
+smallHeading.nppendChild(smallText);
 
 document.body.replaceChild(smallHeading, bodyDiv);
