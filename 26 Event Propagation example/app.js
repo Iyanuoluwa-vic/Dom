@@ -1,3 +1,5 @@
+// this is to show that was is dynamically added will need event propagation to see it if exist
+
 const container = document.querySelector(".container");
 const btn = document.querySelector(".btn");
 const heading = document.querySelector(".heading");
